@@ -1,4 +1,2 @@
 # Whether
-## live link
-
 [Live Demo](https://extraordinary-praline-e8a35e.netlify.app) 
