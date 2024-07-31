@@ -1,3 +1,3 @@
 # Whether
 ## live link
-https://vaibhav-git00.github.io/WHETHER-API/
+https://extraordinary-praline-e8a35e.netlify.app
